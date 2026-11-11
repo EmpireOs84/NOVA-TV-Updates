@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "3.0.0-rc16",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc16/NOVA-TV-3.0.0-rc16.apk",
-  "sizeBytes": 13530127,
-  "sha256": "e5f53e195af2731eb0590097771785f69293b58a638e4a2fc8ca0c54b7d1e969",
+  "versionCode": 19,
+  "versionName": "3.0.0-rc17",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc17/NOVA-TV-3.0.0-rc17.apk",
+  "sizeBytes": 13546511,
+  "sha256": "954bf7d87a1a5b972006045f588512f50fbcd74333c127dd265f19c8145bc7d8",
   "notes": "Verbesserungen für NOVA TV."
 }
