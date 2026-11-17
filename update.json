@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0.0-rc19",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc19/NOVA-TV-3.0.0-rc19.apk",
-  "sizeBytes": 13732475,
-  "sha256": "a98095d0f0734f7f4de3f464ebd1e752e315bafb678465955a5559b89660f082",
-  "notes": "Große Hero-Bilder für Filme und Serien. My Cloud mit Serien, Staffeln, Folgen und Filmtrailern. Neue Live-TV-Programmübersicht und Sportstart mit Schalke-News und Spielplan. Tabellen und Ergebnisse per Fernbedienung scrollen."
+  "versionCode": 22,
+  "versionName": "3.0.0-rc20",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc20/NOVA-TV-3.0.0-rc20.apk",
+  "sizeBytes": 13732471,
+  "sha256": "baae27bf8f96808989e16eeca859a0e78d48e0a4c39c553ca674a6efb8b50495",
+  "notes": "Neue Sport- und Live-TV-Optik. My Cloud erkennt Staffeln aus Folgenordnern, zeigt die neuesten Serien zuerst und unterscheidet Folgen in eigenen Kacheln."
 }
