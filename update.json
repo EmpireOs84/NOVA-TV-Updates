@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "3.0.0-rc17",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc17/NOVA-TV-3.0.0-rc17.apk",
-  "sizeBytes": 13546511,
-  "sha256": "954bf7d87a1a5b972006045f588512f50fbcd74333c127dd265f19c8145bc7d8",
-  "notes": "Verbesserungen für NOVA TV."
+  "versionCode": 20,
+  "versionName": "3.0.0-rc18",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc18/NOVA-TV-3.0.0-rc18.apk",
+  "sizeBytes": 13562895,
+  "sha256": "072bdfa2d7eba72e39e5c9c938b58d4278a7ef9e4c83fcf34c1315cebf105b03",
+  "notes": "Serien direkt fortsetzen und nächste Folge starten. Sportprogramm aus dem Sender-EPG mit Schalke im Fokus. Katalogposition und Kategorien behalten. Live-Player beim Umschalten wiederverwenden. Echte Bildinformationen und Startzeit anzeigen. Startseite mit neuen Titeln und zuletzt gesehenen Sendern."
 }
