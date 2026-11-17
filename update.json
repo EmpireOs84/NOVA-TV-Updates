@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "3.0.0-rc18",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc18/NOVA-TV-3.0.0-rc18.apk",
-  "sizeBytes": 13562895,
-  "sha256": "072bdfa2d7eba72e39e5c9c938b58d4278a7ef9e4c83fcf34c1315cebf105b03",
-  "notes": "Serien direkt fortsetzen und nächste Folge starten. Sportprogramm aus dem Sender-EPG mit Schalke im Fokus. Katalogposition und Kategorien behalten. Live-Player beim Umschalten wiederverwenden. Echte Bildinformationen und Startzeit anzeigen. Startseite mit neuen Titeln und zuletzt gesehenen Sendern."
+  "versionCode": 21,
+  "versionName": "3.0.0-rc19",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc19/NOVA-TV-3.0.0-rc19.apk",
+  "sizeBytes": 13732475,
+  "sha256": "a98095d0f0734f7f4de3f464ebd1e752e315bafb678465955a5559b89660f082",
+  "notes": "Große Hero-Bilder für Filme und Serien. My Cloud mit Serien, Staffeln, Folgen und Filmtrailern. Neue Live-TV-Programmübersicht und Sportstart mit Schalke-News und Spielplan. Tabellen und Ergebnisse per Fernbedienung scrollen."
 }
