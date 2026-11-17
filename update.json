@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "3.0.0-rc22",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc22/NOVA-TV-3.0.0-rc22.apk",
-  "sizeBytes": 13732471,
-  "sha256": "8b08fb7dd34a00a315695e9f2f1841422b1b7f3137826b859147570e5d4792cc",
-  "notes": "My-Cloud-Wiedergabe repariert, Entdecken-Banner beim Hochscrollen vollständig sichtbar und Trailer für Filme und Serien direkt in NOVA TV."
+  "versionCode": 25,
+  "versionName": "3.0.0-rc23",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc23/NOVA-TV-3.0.0-rc23.apk",
+  "sizeBytes": 13748855,
+  "sha256": "b1eaf71c7676ce7514004b15e3d18dd7c6b34f6f6c776d49fe6f091b374ef1cf",
+  "notes": "Neue My-Cloud-Reihen unter Entdecken, Episodenbilder und Gesehen-Filter, Programm für Lieblingssender, Mein Spieltag und direkte Player-Auswahl für Tonspur und Untertitel."
 }
