@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "3.0.0-rc24",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc24/NOVA-TV-3.0.0-rc24.apk",
-  "sizeBytes": 13748855,
-  "sha256": "758f71e42cd6c941492b9b5fc6ad9c4ffaf271bd55f87e4faf77c24455c1f1ac",
+  "versionCode": 27,
+  "versionName": "3.0.0-rc25",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc25/NOVA-TV-3.0.0-rc25.apk",
+  "sizeBytes": 13765239,
+  "sha256": "4de0dae5bb0cb9f19f35140bb1f95efdf3ce2c83feb656d078d2bacc583420c3",
   "notes": "Live-TV-Bilder rechts. My Cloud mit sichtbarerer Playerleiste, SMB-Dateisprüngen und Audioinformationen."
 }
