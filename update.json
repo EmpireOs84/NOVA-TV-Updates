@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "3.0.0-rc23",
-  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc23/NOVA-TV-3.0.0-rc23.apk",
+  "versionCode": 26,
+  "versionName": "3.0.0-rc24",
+  "apkUrl": "https://github.com/EmpireOs84/NOVA-TV-Updates/releases/download/v3.0.0-rc24/NOVA-TV-3.0.0-rc24.apk",
   "sizeBytes": 13748855,
-  "sha256": "b1eaf71c7676ce7514004b15e3d18dd7c6b34f6f6c776d49fe6f091b374ef1cf",
-  "notes": "Neue My-Cloud-Reihen unter Entdecken, Episodenbilder und Gesehen-Filter, Programm für Lieblingssender, Mein Spieltag und direkte Player-Auswahl für Tonspur und Untertitel."
+  "sha256": "758f71e42cd6c941492b9b5fc6ad9c4ffaf271bd55f87e4faf77c24455c1f1ac",
+  "notes": "Live-TV-Bilder rechts. My Cloud mit sichtbarerer Playerleiste, SMB-Dateisprüngen und Audioinformationen."
 }
